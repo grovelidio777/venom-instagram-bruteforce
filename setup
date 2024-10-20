@@ -34,12 +34,12 @@ cd
 wget -O ~/instapy-config.json "https://git.io/v5DGy"
 cd /data/data/com.termux/files/usr/etc/tor
 rm -rf torrc
-cd $HOME/venom-instagram-bruteforce
+cd $HOME/megmag1899-instagram-bruteforce
 cp -r torrc /data/data/com.termux/files/usr/etc/tor
 cd
 tor
 
 
 #else
-#cd /data/data/com.termux/files/home/venom-instagram-bruteforce
+#cd /data/data/com.termux/files/home/megmag1899-instagram-bruteforce
 #cp -r torrc /data/data/com.termux/files/usr/etc/tor
